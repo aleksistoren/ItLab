@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\DataBaseTests\\DataBaseTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\DataBaseTests\\DataBaseTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\DataBaseTests\\DataBaseTests.csproj",
+        "projectName": "DataBaseTests",
+        "projectPath": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\DataBaseTests\\DataBaseTests.csproj",
+        "packagesPath": "C:\\Users\\oleksiit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\DataBaseTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oleksiit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\LAB_IT_SERVER_\\LAB_IT_SERVER_.csproj": {
+                "projectPath": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\LAB_IT_SERVER_\\LAB_IT_SERVER_.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\LAB_IT_SERVER_\\LAB_IT_SERVER_.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\LAB_IT_SERVER_\\LAB_IT_SERVER_.csproj",
+        "projectName": "LAB_IT_SERVER_",
+        "projectPath": "C:\\Users\\oleksiit\\Desktop\\LAB_IT\\LAB_IT\\LAB_IT_SERVER_\\LAB_IT_SERVER_.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
